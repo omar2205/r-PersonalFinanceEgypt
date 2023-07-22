@@ -9,7 +9,7 @@ export default defineNuxtConfig({
     '@nuxt/devtools'
   ],
   app: {
-    baseURL: '/rp-fork/'
+    baseURL: '/r-PersonalFinanceEgypt/'
   },
   nitro: {
     preset: 'github-pages'
