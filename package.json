@@ -1,5 +1,5 @@
 {
-  "name": "docus-starter",
+  "name": "r-personalfinanceegypt-wiki",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,7 +7,7 @@
     "build": "nuxi build",
     "generate": "nuxi generate",
     "preview": "nuxi preview",
-    "lint": "eslint ."
+    "lint": "eslint .",
   },
   "devDependencies": {
     "@nuxt-themes/docus": "^1.13.1",
