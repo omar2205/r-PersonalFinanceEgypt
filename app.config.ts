@@ -38,7 +38,7 @@ export default defineAppConfig({
       credits: {
         text: 'Powered by Docus and compiled by u/darkening_twilight',
         icon: '',
-        href: ''
+        href: 'https://www.reddit.com/r/PersonalFinanceEgypt/comments/155xjb3/common_resource_for_gathering_info_and_creating/'
       }
     }
   }
